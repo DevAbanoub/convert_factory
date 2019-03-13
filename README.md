@@ -1,5 +1,5 @@
 # convert_factory
-Converter program for all Linux distributions written in [Go](https://golang.org). You can use the convert factory as a GUI app or as a CLI app in the Linux terminal / console.
+Converter program for all Linux distributions written in Python. You can use the convert factory as a GUI app or as a CLI app in the Linux terminal / console.
 
 ## Goals
 - GUI (clean n simple).
