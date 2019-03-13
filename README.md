@@ -1,5 +1,5 @@
 # convert_factory
-Converter program for all Linux distributions written in [GO](https://golang.org). You can use the convert factory as a GUI app or as a CLI app in the Linux terminal / console.
+Converter program for all Linux distributions written in [Go](https://golang.org). You can use the convert factory as a GUI app or as a CLI app in the Linux terminal / console.
 
 ## Goals
 - GUI (clean n simple)
@@ -19,4 +19,4 @@ Converter program for all Linux distributions written in [GO](https://golang.org
 - .. and all languages will come!
 
 ## Help & Support
-Feel free to edit / publish code of this **convert factory** to achieve our common goal. You can [pull request](https://github.com/DevAbanoub/convert_factory/edit/master/pull) or [open an issue](https://github.com/DevAbanoub/convert_factory/edit/master/issue).
+Feel free to edit / publish code of this **convert factory** to achieve our common goal. You can [pull request](https://github.com/DevAbanoub/convert_factory/pull) or [open an issue](https://github.com/DevAbanoub/convert_factory/issues).
