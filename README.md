@@ -19,4 +19,4 @@ Converter program for all Linux distributions written in [Go](https://golang.org
 - .. and all languages will come!
 
 ## Help & Support
-Feel free to edit / publish code of this **convert factory** to achieve our common goal. You can [pull request](https://github.com/DevAbanoub/convert_factory/pull) or [open an issue](https://github.com/DevAbanoub/convert_factory/issues).
+Feel free to edit / publish code of this **convert factory** to achieve our common goal. You can [pull request](https://github.com/DevAbanoub/convert_factory/pulls) or [open an issue](https://github.com/DevAbanoub/convert_factory/issues).
