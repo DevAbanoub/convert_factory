@@ -2,9 +2,9 @@
 Converter program for all Linux distributions written in [Go](https://golang.org). You can use the convert factory as a GUI app or as a CLI app in the Linux terminal / console.
 
 ## Goals
-- GUI (clean n simple)
-- CLI (simple commands)
-- speed n performant
+- GUI (clean n simple).
+- CLI (simple commands).
+- speed n performant.
 
 ## Tech Approaches
 - concurrency
